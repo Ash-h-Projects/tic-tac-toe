@@ -1,0 +1,11 @@
+{
+  "env": {
+    "browser": true
+  },
+  "extends": ["airbnb", "prettier"],
+  "plugins": ["react"],
+  "rules": {
+    "react/prefer-stateless-function": [0],
+    "react/function-component-definition": false
+  }
+}
