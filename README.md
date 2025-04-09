@@ -1,6 +1,6 @@
 # React-Tic-Tac-Toe
 
-## Summary
+## Summary: [![Netlify Status](https://api.netlify.com/api/v1/badges/9612dbec-38fc-4c9e-8db0-70ad93d25386/deploy-status)](https://app.netlify.com/sites/retro-react-tik-tac-toe/deploys)
 
 ## Learning Goals:
 
