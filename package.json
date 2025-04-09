@@ -3,7 +3,8 @@
   "version": "2.0.0",
   "description": "Unit 6 React",
   "scripts": {
-    "start": "webpack-dev-server --open"
+    "start": "webpack-dev-server --open",
+    "build": "webpack --mode production"
   },
   "author": "Ashley Hannigan",
   "license": "ISC",
